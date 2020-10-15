@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationOfBitmapCharacterSet",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LastVersionLoad" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"project" ],
+	"name" : "ConfigurationOfBitmapCharacterSet",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

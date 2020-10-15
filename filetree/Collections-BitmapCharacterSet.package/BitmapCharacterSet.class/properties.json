@@ -1,0 +1,16 @@
+{
+	"category" : "Collections-BitmapCharacterSet",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"byteCharacters",
+		"wideCharacters",
+		"tally" ],
+	"name" : "BitmapCharacterSet",
+	"pools" : [
+		 ],
+	"super" : "Collection",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Collections-BitmapCharacterSet-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"characters" ],
+	"name" : "BitmapCharacterSetTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

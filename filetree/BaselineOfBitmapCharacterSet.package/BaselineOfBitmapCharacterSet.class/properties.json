@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfBitmapCharacterSet",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfBitmapCharacterSet",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
