@@ -5,12 +5,12 @@ baseline: spec
 	spec for: #common do: [ 
 		"Packages and Dependencies"
 		spec 
-			package: 'Collections-BitmapCharacterSet';
-			package: 'Collections-BitmapCharacterSet-Tests' with: [ spec requires: 'Collections-BitmapCharacterSet' ].
+			package: 'Collections-BitmapCharacterSet-Core';
+			package: 'Collections-BitmapCharacterSet-Tests' with: [ spec requires: 'Collections-BitmapCharacterSet-Core' ].
 			
 		"Groups"	
 		spec				
-				group: 'Core' with: #('Collections-BitmapCharacterSet');
+				group: 'Core' with: #('Collections-BitmapCharacterSet-Core');
 				group: 'Tests' with: #('Collections-BitmapCharacterSet-Tests');
 				group: 'all' with: #('Core' 'Tests');
 				group: 'default' with: #('all')	
