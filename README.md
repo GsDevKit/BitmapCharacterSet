@@ -6,11 +6,18 @@ BitmapCharacterSet is a set for characters that uses a bitmap for storing wide c
 
 ## Installation
 
+### Metacello
 ```smalltalk
 Metacello new
 	baseline: 'BitmapCharacterSet';
-	repository: 'github://pharo-contributions/BitmapCharacterSet/src';
+	repository: 'github://GsDevKit/BitmapCharacterSet:gemstone/filetree';
 	load.
+```
+
+### tODE command line
+```
+project install --url=http://gsdevkit.github.io/GsDevKit_home/BitmapCharacterSet.ston
+project load BitmapCharacterSet
 ```
 
 ## History
